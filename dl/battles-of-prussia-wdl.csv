@@ -1,0 +1,38 @@
+﻿table,row,scored,won,drawn,lost,won %,first,last
+By opponent group,All opponents,504,304,26,174,60,1627,1871
+By opponent group,French,260,157,15,88,60,1675,1871
+By opponent group,Austrians and the Empire,109,69,2,38,63,1741,1866
+By opponent group,Swedes and Danes,56,35,3,18,62,1627,1864
+By opponent group,Poles,23,9,1,13,39,1656,1848
+By opponent group,Russians,19,7,1,11,37,1757,1812
+By opponent group,Other Germans,27,21,4,2,78,1756,1866
+By opponent group,Others,10,6,0,4,60,1680,1856
+The 9 main opponents,France,259,156,15,88,60,1675,1871
+The 9 main opponents,Austria,103,65,1,37,63,1741,1866
+The 9 main opponents,Sweden,45,29,2,14,64,1627,1762
+The 9 main opponents,Russia,19,7,1,11,37,1757,1812
+The 9 main opponents,Polish insurgents,19,7,1,11,37,1794,1848
+The 9 main opponents,Denmark,12,6,1,5,50,1809,1864
+The 9 main opponents,"Revolutionaries, 1849",9,9,0,0,100,1849,1849
+The 9 main opponents,Bavaria,9,6,3,0,67,1850,1866
+The 9 main opponents,The Reichsarmee,7,3,0,4,43,1758,1762
+By Prussian state,Brandenburg-Prussia,40,28,1,11,70,1627,1695
+By Prussian state,Kingdom of Prussia,377,211,18,148,56,1702,1866
+By Prussian state,North German Confederation,87,65,7,15,75,1870,1871
+By Prussian state,Frederick II in person,31,22,1,8,71,1741,1762
+By Prussia's part,As principal,451,274,21,156,61,1627,1871
+By Prussia's part,As major ally,53,30,5,18,57,1656,1849
+By kind of battle,Field battles,375,217,19,139,58,1627,1871
+By kind of battle,Sieges,121,86,3,32,71,1638,1871
+By kind of battle,Sea battles,8,1,4,3,12,1680,1870
+By period,The Thirty Years' War and the Northern War (1618–1660),11,6,0,5,55,,
+By period,"The Great Elector: Swedes, Turks and Louis XIV (1661–1700)",29,22,1,6,76,,
+By period,The new kingdom: Louis XIV and Sweden (1701–1739),21,15,0,6,71,,
+By period,The Silesian Wars (1740–1748),30,24,0,6,80,,
+By period,The Seven Years' War (1756–1763),89,44,3,42,49,,
+By period,"Bavaria, Holland, France and Poland (1778–1795)",39,19,1,19,49,,
+By period,"Jena, Schill and the march on Russia (1806–1812)",52,13,2,37,25,,
+By period,The Wars of Liberation (1813–1815),84,51,7,26,61,,
+By period,The revolutions of 1848–49 and after (1848–1856),24,15,2,7,62,,
+By period,Denmark and Austria (1864–1866),38,30,3,5,79,,
+By period,The Franco-Prussian War (1870–1871),87,65,7,15,75,,
